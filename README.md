@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Igor and I'm a Software Engineer, from South Korea</p>
+<p align="left">My name is Igor and I'm a russian speaking Software Engineer, from South Korea</p>
 
 ###
 
